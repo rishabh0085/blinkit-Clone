@@ -1,4 +1,4 @@
-# Blinkit Clone
+# Blinkit-Clone
 
 This project is a front-end clone of the Blinkit website, designed to replicate its user interface and responsiveness. The project utilizes HTML, CSS, and the Bootstrap framework for layout and design, with Font-Awesome providing icons.
 
